@@ -2,12 +2,12 @@
 
 +++
 
-## What I'll Talk About |
+## What I'll Talk About 
 
 * What |
 * Why |
 * Examples |
-* What's Next
+* What's Next |
 
 ---
 

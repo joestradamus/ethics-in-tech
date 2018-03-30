@@ -1,13 +1,12 @@
-# Ethics in Technology
+# Ethical Software
 
 +++
 
-## What I'll Talk About 
+## Talking Points
 
-* What |
-* Why |
-* Examples |
-* What's Next |
+* What are the challenges in creating "ethical" software? |
+* Why should we care? |
+* What should be done? |
 
 ---
 
@@ -15,4 +14,18 @@
 
 +++
 
+## Topics 
 
+* Value of attention |
+  * Information overload |
+  * Advertising |
+  * "Freemium" model |
+* Big data |
+  * What should be collected? |
+* Consent |
+* Responsibility |
+  * Management |
+  * Producers |
+  * Consumers |
+* Privacy |
+* Security |

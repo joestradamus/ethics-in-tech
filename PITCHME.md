@@ -20,7 +20,7 @@
 * Big data |
 * Consent |
 * Responsibility |
-* Diversity
+* Diversity |
 * Privacy |
 * Security |
 
@@ -32,6 +32,6 @@
 
 ## Information Overload
 
-<img src="images/overload.gif" class="fragment" /> |
+<img src="images/overload.gif" class="fragment" />
 
 +++

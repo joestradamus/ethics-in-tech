@@ -16,9 +16,22 @@
 
 ## Topics 
 
-* Value of attention | [//]: # Information overload | Advertising | "Freemium" model
+* Value of attention | (Information overload | Advertising | "Freemium" model)
 * Big data |
 * Consent |
 * Responsibility |
+* Diversity
 * Privacy |
 * Security |
+
+---
+
+# Value of Attention
+
++++
+
+## Information Overload
+
+<img src="images/overload.gif" class="fragment" /> |
+
++++

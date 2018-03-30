@@ -16,16 +16,9 @@
 
 ## Topics 
 
-* Value of attention |
-  * Information overload |
-  * Advertising |
-  * "Freemium" model |
+* Value of attention | [//]: # Information overload | Advertising | "Freemium" model
 * Big data |
-  * What should be collected? |
 * Consent |
 * Responsibility |
-  * Management |
-  * Producers |
-  * Consumers |
 * Privacy |
 * Security |

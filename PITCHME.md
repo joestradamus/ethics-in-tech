@@ -2,7 +2,7 @@
 
 +++
 
-## Talking Points
+## Key Questions
 
 * What are the challenges in creating "ethical" software? |
 * Why should we care? |
@@ -10,15 +10,10 @@
 
 ---
 
-## What
-
-+++
-
 ## Topics 
 
-* Value of attention | (Information overload | Advertising | "Freemium" model)
-* Big data |
-* Consent |
+* Value of Attention |
+* Big Data |
 * Responsibility |
 * Diversity |
 * Privacy |
@@ -35,3 +30,59 @@
 <img src="images/overload.gif" class="fragment" />
 
 +++
+
+* What is it?
+* Why is it a problem?
+  * Social Media 
+  * "Freemium" games
+
++++
+
+## Dark Patterns
+
+* Advertising
+* Consent
+* End User
+
+---
+
+# Big Data
+
++++
+
+What ought to be captured?
+Data lifecycle
+
+---
+
+# Diversity
+
+---
+
+# Privacy
+
+---
+
+# Security
+
+---
+
+<img src="images/whoopty-doo.gif" />
+ 
+---
+
+# Responsibility
+
+---
+
+# What Should Be Done?
+
++++
+
+> Morality cannot be legislated, but behavior can be regulated.
+
+-- Dr. Martin Luther King, Jr., UCLA, 1965
+
+---
+
+# FIN.

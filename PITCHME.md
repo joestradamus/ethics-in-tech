@@ -14,11 +14,10 @@
 
 * Value of Attention |
 * Big Data |
-* Responsibility |
 * Diversity |
 * Privacy |
 * Security |
-
+* Responsibility |
 ---
 
 # Value of Attention
@@ -82,6 +81,19 @@ Data lifecycle
 > Morality cannot be legislated, but behavior can be regulated.
 
 -- Dr. Martin Luther King, Jr., UCLA, 1965
+
+---
+
+# Next Steps
+
++++
+
+If there's interest,
+
+* Another brown bag | 
+  * Possible topics: hacktivism, cyber feminism, dark web, anonymity |
+* Competency group |
+* Public debate
 
 ---
 

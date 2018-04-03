@@ -78,9 +78,39 @@ Data lifecycle
 
 +++
 
+* Social
+* Legal
+* Cultural
+
++++
+
+## Social 
+
++++
+
+<img src="images/shame.gif" />
+[Examples](https://darkpatterns.org/hall-of-shame) |
+
+Note:
+* Public shaming is an option, but not really a solution; just look at how dishes get handled in our kitchens
+* Despite this, it's important, as it motivates companies to avoid negative PR under public pressure
+
++++
+
+## Legal
+
++++
+
 > Morality cannot be legislated, but behavior can be regulated.
 
 -- Dr. Martin Luther King, Jr., UCLA, 1965
+
++++
+
+## Cultural
+
++++
+
 
 ---
 
@@ -93,7 +123,7 @@ If there's interest,
 * Another brown bag | 
   * Possible topics: hacktivism, cyber feminism, dark web, anonymity |
 * Competency group |
-* Public debate
+* Public debate |
 
 ---
 

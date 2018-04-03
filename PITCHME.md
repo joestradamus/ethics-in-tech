@@ -86,7 +86,7 @@ Data lifecycle
 
 ## Social 
 
-+++?image=images/shame.gif
++++?image=images/shame.gif&size=auto 80%
 
 <a href="https://darkpatterns.org/hall-of-shame" target="_blank" class="fragment">Examples</a>
 
@@ -97,7 +97,6 @@ Note:
 +++
 
 ## Legal
-
 +++
 
 > Morality cannot be legislated, but behavior can be regulated.

@@ -86,10 +86,9 @@ Data lifecycle
 
 ## Social 
 
-+++
++++?image=images/shame.gif
 
-<img src="images/shame.gif" />
-[Examples](https://darkpatterns.org/hall-of-shame) |
+<a href="https://darkpatterns.org/hall-of-shame" target="_blank" class="fragment">Examples</a>
 
 Note:
 * Public shaming is an option, but not really a solution; just look at how dishes get handled in our kitchens

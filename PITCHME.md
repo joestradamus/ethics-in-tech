@@ -72,6 +72,12 @@ Data lifecycle
 
 # Responsibility
 
++++
+
+> When a designer lets a bad business decision through, *that's* a decision as well
+
+-- Mike Monteiro 
+
 ---
 
 # What Should Be Done?

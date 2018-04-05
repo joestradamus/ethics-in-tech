@@ -76,6 +76,8 @@ Data lifecycle
 
 > When a designer lets a bad business decision through, *that's* a decision as well
 
+> This is how bad design makes it out into the world: not due to malicious intent, but with no intent at all
+
 -- Mike Monteiro 
 
 ---

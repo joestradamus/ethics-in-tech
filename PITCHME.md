@@ -1,10 +1,10 @@
-# Ethical Software
+# Ethics in Technology
 
 +++
 
 ## Key Questions
 
-* What are the challenges in creating "ethical" software? |
+* What are the challenges in creating "ethical" technology? |
 * Why should we care? |
 * What should be done? |
 
@@ -13,11 +13,10 @@
 ## Topics 
 
 * Value of Attention |
-* Big Data |
+* Ethical Data |
 * Diversity |
-* Privacy |
-* Security |
 * Responsibility |
+
 ---
 
 # Value of Attention
@@ -56,21 +55,51 @@ Data lifecycle
 
 # Diversity
 
----
-
-# Privacy
-
----
-
-# Security
-
----
-
-<img src="images/whoopty-doo.gif" />
+---?image=images/whoopty-doo.gif&size=auto 80%
  
 ---
 
+# Why We Should Care
+
++++ 
+
+## We Lose Business
+
+* For 26% of online households, security and privacy concerns stopped them from buying goods or services. |
+* For 29% of online households, security and privacy concerns stopped them from conducting financial transactions |
+
+-- [2015 survey of 41,000 households by the National Telecommunications and Information Administration](https://www.ntia.doc.gov/blog/2016/lack-trust-internet-privacy-and-security-may-deter-economic-and-other-online-activities) |
+
++++
+
+## Misconduct is Costly
+
+> For each dollar that a firm misleadingly inflates its market value, on average, it loses this dollar when its misconduct is revealed, plus an additional $3.08. Of this additional loss, $0.36 is due to expected legal penalties and $2.71 is due to lost reputation. In firms that survive the enforcement process, lost reputation is even greater at $3.83.
+
+-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=652121
+
++++
+
+## Ethics Begets Productivity
+
++++
+
+## Ethics Attracts Talent
+
+> A survey of more than 800 MBAs from 11 leading North American and European schools found 94%  were willing to forgo up to 20% of their income to work for an organization with a better reputation for corporate social responsibility and ethics
+
+-- https://www.gsb.stanford.edu/insights/mba-graduates-want-work-caring-ethical-employers
+
+---
+
 # Responsibility
+
++++
+
+* As developers |
+* As designers |
+* As decision makers |
+* As stakeholders |
 
 +++
 
@@ -86,9 +115,9 @@ Data lifecycle
 
 +++
 
-* Social
-* Legal
-* Cultural
+* Social |
+* Legal |
+* Cultural |
 
 +++
 
@@ -105,6 +134,14 @@ Note:
 +++
 
 ## Legal
+
++++
+
+E.U. Privacy laws vs. U.S.
+Compliance/certification?
+Regulations
+Consistent, single source of truth for best practices
+
 +++
 
 > Morality cannot be legislated, but behavior can be regulated.
@@ -127,7 +164,7 @@ Note:
 If there's interest,
 
 * Another brown bag | 
-  * Possible topics: hacktivism, cyber feminism, dark web, anonymity |
+  * Possible topics: hacktivism, cyber feminism, dark web, anonymity, cyberstalking,  | 
 * Competency group |
 * Public debate |
 

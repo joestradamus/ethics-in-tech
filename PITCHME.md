@@ -162,7 +162,7 @@ Consistent, single source of truth for best practices
 
 +++
 
-If there's interest,
+## If there's interest,
 
 * Another brown bag | 
   * Possible topics: hacktivism, digital existentialism, algorithmic bias, cyber feminism, dark web, anonymity, cyberstalking, AI, Auto ML | 

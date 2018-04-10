@@ -1,5 +1,5 @@
----?image=images/sauron.png&size=auto 90%
-<h1 style="color: white"> Ethics in Technology </h1>
+---?image=images/sauron.png&size=auto 100%
+<h1 style="color: white" class="fragment"> Ethics in Technology </h1>
 
 +++
 

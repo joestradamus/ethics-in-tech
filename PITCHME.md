@@ -1,3 +1,4 @@
+---?image=images/sauron.png&size=auto 80%
 # Ethics in Technology
 
 +++
@@ -6,7 +7,7 @@
 
 * What are the challenges in creating "ethical" technology? |
 * Why should we care? |
-* What should be done? |
+* How should we address these challenges? |
 
 ---
 
@@ -164,7 +165,7 @@ Consistent, single source of truth for best practices
 If there's interest,
 
 * Another brown bag | 
-  * Possible topics: hacktivism, cyber feminism, dark web, anonymity, cyberstalking,  | 
+  * Possible topics: hacktivism, digital existentialism, algorithmic bias, cyber feminism, dark web, anonymity, cyberstalking, AI, Auto ML | 
 * Competency group |
 * Public debate |
 

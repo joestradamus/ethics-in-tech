@@ -1,22 +1,44 @@
 ---?image=images/sauron.png&size=auto 100%
-<h1 style="color: white" class="fragment"> Ethics in Technology </h1>
+<h1 style="color: white" class="fragment"> How to Reach the Star Trek Singularity </h1>
+
+Note:
+
+This is a phrase coined by Cathy O'Neil, a prominent data scientist now evangelizing the harms of big data. She explains,
+
+> It’s the moment where we decide that human dignity is of paramount importance, and we learn how to use technology to enhance human experience
 
 +++
 
 ## Key Questions
 
-* What are the challenges in creating "ethical" technology? |
-* Why should we care? |
-* How should we address these challenges? |
+* What is technology, and why should we be worried about its current landscape? |
+* How should we address these challenges in technology? |
+* How do these issues affect Slalom's business and clientele? |
+* How should we respond? | 
 
 ---
 
-## Topics 
+## The Current Landscape 
 
-* Value of Attention |
-* Ethical Data |
+* The Value of Attention |
+* Attitudes on Data |
+* Consent in the Digital Age |
 * Diversity |
 * Responsibility |
+
+Note:
+
+1. What's happening to our attention, and what does it mean?
+2. How do we think of data collection? As developers, and as consumers?
+3. The complexity of technology complicates and challenges our view of informed consent
+4. I want to materialize the *specific* harms of the lack of diversity in tech: machine learning, ui/ux design, feature development, and edge cases
+5. What is our responsibility? As developers, designers, decision makers, and users of technology?
+
+This is a broad outline of the core topics I want to discuss. I won't talk about these linearly, just giving you a preview
+
+---
+
+# Technology
 
 ---
 
@@ -45,7 +67,7 @@
 
 ---
 
-# Big Data
+# Ethical Data
 
 +++
 

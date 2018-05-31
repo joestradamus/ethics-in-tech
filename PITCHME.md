@@ -397,6 +397,9 @@ Requirements include:
 * pseudonymisation, encryption of personal data |
 * ensuring integrity, availability, and resilience of systems and services (build a good system) |
 * ability to restore systems in timely manner (again, make it good) |
+
++++
+
 * regular testing of effectiveness and security (seriously, make a decent system) |
 * obligation to report data breach to relevant authority AND data subject (looking at you, Equifax) |
 
@@ -406,7 +409,7 @@ Requirements include:
 
 #### TL;DR
 
-GDPR focuses on specifying the |
+GDPR focuses on specifying the 
 
 * what (gets collected/processed), | 
 * how (data are collected/processed), | 
@@ -414,7 +417,9 @@ GDPR focuses on specifying the |
 * who/where (provided/processed data), and | 
 * why (collection/processing purposes, longevity, etc.) |
 
-for protecting |
++++
+
+for protecting 
 
 > fundamental rights and freedoms of natural persons and in particular their right to the protection of personal data
 
@@ -447,16 +452,11 @@ By far, the NSA has the broadest and most sophisticated surveillance technology 
 
 #### China
 
-Currently, |
+Currently,
 
-* Chinese government maintains every individual's *dang’an*, "the personal file containing every scrap of information the state keeps on them, from exam results to their religious and political views" | 
+* Chinese government maintains every individual's **dang’an**, "the personal file containing every scrap of information the state keeps on them, from exam results to their religious and political views" | 
 * Police are experimenting with smart glasses to identify criminals in crowds in real-time |
 * Classrooms are experimenting with facial recognition software to grade students based on their facial expressions |
-* Workplaces are experimenting with brain-scanning helmets to monitor emotional states of workers |
-
-In 2020, |
-
-* Every citizen will have a mandatory "social credit score" |
 
 Note:
 
@@ -465,6 +465,16 @@ Note:
 [Allegedly able to scan a face real-time against a database of 10,000 faces in 1/10 of a second. Currently deployed in Zhengzhou. Police are able to track and surveil citizens with "complete freedom"](https://www.theverge.com/2018/2/8/16990030/china-facial-recognition-sunglasses-surveillance)
 
 [A highschool in east China installed a "smart eye" system. Every 30 seconds the system looks at students faces & actions, then gives an automated score](https://futurism.com/smart-eye-china-facial-recognition/)
+
++++
+
+* Workplaces are experimenting with brain-scanning helmets to monitor emotional states of workers |
+
+In 2020,
+
+* Every citizen will have a mandatory "social credit score" |
+
+Note:
 
 [Workplace helmets](https://www.technologyreview.com/the-download/611052/with-brain-scanning-hats-china-signals-it-has-no-interest-in-workers-privacy/)
 
@@ -600,7 +610,9 @@ Those same researchers, and another, Jeffrey Han, did another study a year later
 
 What did they find?
 
-> 85% of emails in our corpus contain embedded third-party content, and 70% contain resources categorized as trackers by popular tracking-protection lists. There are an average of 5.2 [per email] |
+> 85% of emails in our corpus contain embedded third-party content, and 70% contain resources categorized as trackers by popular tracking-protection lists. There are an average of 5.2 [per email]
+
++++
 
 > About 29% of emails leak the user’s email address to at least one third party when the email is opened, and about 19% of senders sent at least one email that had such a leak. The majority of these leaks (62%) are intentional | 
 
@@ -610,9 +622,9 @@ But Joe, what about mobile apps?
 
 +++
 
->  an empirical study of the prevalence of third-party trackers on 959,000 apps from the US and UK Google Play stores |
+>  an empirical study of the prevalence of third-party trackers on 959,000 apps from the US and UK Google Play stores
 
->  Across all analyzed apps (n = 959,426), the median number of tracker hosts included in the bytecode of an app was 10. 90.4% of apps included at least one, and 17.9% more than twenty |
+>  Across all analyzed apps (n = 959,426), the median number of tracker hosts included in the bytecode of an app was 10. 90.4% of apps included at least one, and 17.9% more than twenty
 
 [*Third Party Tracking in the Mobile Ecosystem*. University of Oxford. April 2018](https://arxiv.org/pdf/1804.03603.pdf) |
 
@@ -678,13 +690,13 @@ And while I have a response to that question, there's still some content I want 
 
 +++
 
-* Google has a contract with the DoD to develop uses for its AI technology with drones [Gizmodo](https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533)|
+* Google has a contract with the DoD to develop uses for its AI technology with drones [Gizmodo](https://gizmodo.com/google-is-helping-the-pentagon-build-ai-for-drones-1823464533)
 
-* Palantir won a $42MM contract from the U.S. government to build out Trump's wide-scale monitoring of immigrants [The Intercept](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/) |
+* Palantir won a $42MM contract from the U.S. government to build out Trump's wide-scale monitoring of immigrants [The Intercept](https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/)
 
-* Amazon is working with police departments to integrate their Rekognition API in body and street cameras [Futurism](https://futurism.com/police-surveillance-gets-terrifying-boost-from-amazons-ai-facial-recognition/) | 
+* Amazon is working with police departments to integrate their Rekognition API in body and street cameras [Futurism](https://futurism.com/police-surveillance-gets-terrifying-boost-from-amazons-ai-facial-recognition/)
 
-* Predictive policing software is encouraged and financed by initiatives from the federal Bureau of Justice Assistance’s SMART Policing Initiative [The Intercept](https://theintercept.com/2018/05/11/predictive-policing-surveillance-los-angeles/) |
+* Predictive policing software is encouraged and financed by initiatives from the federal Bureau of Justice Assistance’s SMART Policing Initiative [The Intercept](https://theintercept.com/2018/05/11/predictive-policing-surveillance-los-angeles/)
 
 +++
 
@@ -748,11 +760,8 @@ Researchers from the University of London looked at UK users' tweets during the 
 
 +++
 
-* [J. Crockett, M. (2017). *Moral outrage in the digital age*. Nature Human Behaviour. 1. 10.1038/s41562-017-0213-3.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5a53c0d49140b7212c35b20e/1515438295247/Crockett_2017_NHB_Outrage.pdf) |
-* [William J. Brady, Julian A. Wills, John T. Jost, Joshua A. Tucker, Jay J. Van Bavel. *Moral contagion in social networks*. Proceedings of the National Academy of Sciences Jul 2017, 114 (28)](http://www.pnas.org/content/114/28/7313) |
-* [Fincher, Katrina & Tetlock, Philip. (2016). *Perceptual dehumanization of faces is activated by norm violations and facilitates norm enforcement*. Journal of Experimental Psychology: General. 145. 131-146.](https://www.researchgate.net/publication/291948166_Perceptual_dehumanization_of_faces_is_activated_by_norm_violations_and_facilitates_norm_enforcement) |
-* [Grace Holland, Marika Tiggemann. *A systematic review of the impact of the use of social networking sites on body image and disordered eating outcomes*, Body Image, Volume 17, 2016, Pages 100-110.](https://www.sciencedirect.com/science/article/abs/pii/S1740144516300912) |
-* [Jean M. Twenge, Thomas E. Joiner, Megan L. Rogers, and Gabrielle N. Martin. *Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time*](http://journals.sagepub.com/doi/abs/10.1177/2167702617723376?journalCode=cpxa#articleCitationDownloadContainer) |
+* [J. Crockett, M. (2017). *Moral outrage in the digital age*. Nature Human Behaviour. 1. 10.1038/s41562-017-0213-3.](https://static1.squarespace.com/static/538ca3ade4b090f9ef331978/t/5a53c0d49140b7212c35b20e/1515438295247/Crockett_2017_NHB_Outrage.pdf)
+* [William J. Brady, Julian A. Wills, John T. Jost, Joshua A. Tucker, Jay J. Van Bavel. *Moral contagion in social networks*. Proceedings of the National Academy of Sciences Jul 2017, 114 (28)](http://www.pnas.org/content/114/28/7313)
 
 Note:
 
@@ -785,6 +794,13 @@ a 2016 study published in the journal, *Body Image* found:
 2017 study published in the *Clinical Psychological Science* journal, researchers found:
 
 > In two nationally representative surveys of U.S. adolescents in grades 8 through 12 (N = 506,820) and national statistics on suicide deaths for those ages 13 to 18, adolescents’ depressive symptoms, suicide-related outcomes, and suicide rates increased between 2010 and 2015, especially among females. Adolescents who spent more time on new media (including social media and electronic devices such as smartphones) were more likely to report mental health issues...cyclical economic factors such as unemployment and the Dow Jones Index were not linked to depressive symptoms or suicide rates when matched by year.
+
+
++++
+
+* [Fincher, Katrina & Tetlock, Philip. (2016). *Perceptual dehumanization of faces is activated by norm violations and facilitates norm enforcement*. Journal of Experimental Psychology: General. 145. 131-146.](https://www.researchgate.net/publication/291948166_Perceptual_dehumanization_of_faces_is_activated_by_norm_violations_and_facilitates_norm_enforcement)
+* [Grace Holland, Marika Tiggemann. *A systematic review of the impact of the use of social networking sites on body image and disordered eating outcomes*, Body Image, Volume 17, 2016, Pages 100-110.](https://www.sciencedirect.com/science/article/abs/pii/S1740144516300912)
+* [Jean M. Twenge, Thomas E. Joiner, Megan L. Rogers, and Gabrielle N. Martin. *Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time*](http://journals.sagepub.com/doi/abs/10.1177/2167702617723376?journalCode=cpxa#articleCitationDownloadContainer) |
 
 +++
 
@@ -858,17 +874,17 @@ Cathy O'Neil explains,
 
 +++
 
-* Using neural networks to predict sexuality from photos [Stanford study](https://www.gsb.stanford.edu/faculty-research/publications/deep-neural-networks-are-more-accurate-humans-detecting-sexual) |
-* Facebook patents way to classify users' socioeconomic class based on activity/likes [Engadget](https://www.engadget.com/2018/02/09/facebook-patents-tech-to-determine-social-class/) |
-* Google's tutorial on Word2Vec with Tensorflow [sauce](https://www.tensorflow.org/tutorials/word2vec#motivation_why_learn_word_embeddings) |
+* Using neural networks to predict sexuality from photos [Stanford study](https://www.gsb.stanford.edu/faculty-research/publications/deep-neural-networks-are-more-accurate-humans-detecting-sexual)
+* Facebook patents way to classify users' socioeconomic class based on activity/likes [Engadget](https://www.engadget.com/2018/02/09/facebook-patents-tech-to-determine-social-class/)
+* Google's tutorial on Word2Vec with Tensorflow [sauce](https://www.tensorflow.org/tutorials/word2vec#motivation_why_learn_word_embeddings)
 
 +++
 
-### Slalom misses the point on the issues w/ AI: |
+### Slalom misses the point on the issues w/ AI:
 
-> you’re probably familiar with the basic sci-fi premise of robots taking over the world, and the thorny ethical issues resulting from a computer with human sentience...let’s be clear: that’s not the kind of AI we’re talking about here. The kind of AI that has the potential to turn on humans? We call that generalized AI. |
+> you’re probably familiar with the basic sci-fi premise of robots taking over the world, and the thorny ethical issues resulting from a computer with human sentience...let’s be clear: that’s not the kind of AI we’re talking about here. The kind of AI that has the potential to turn on humans? We call that generalized AI.
 
-https://go.slalom.com/ai-powered-by-humans |
+https://go.slalom.com/ai-powered-by-humans
 
 +++
 
@@ -882,21 +898,21 @@ https://go.slalom.com/ai-powered-by-humans |
 
 So when companies say something like,
 
-> by signing up for an account, you agree to this rediculously long privacy agreement that's intentionally vague and requires 18 law degrees to fully understand... |
+> by signing up for an account, you agree to this rediculously long privacy agreement that's intentionally vague and requires 18 law degrees to fully understand...
 
 +++
 
-We usually respond with |
+We usually respond with
 
 <img src="images/gifs/i-guess.gif" class="fragment" />
 
 +++
 
-But we ought to respond with |
+But we ought to respond with
 
 <img src="images/gifs/demand-more.gif" class="fragment" />
 
-CREDIT: TIM SISK!!! | 
+CREDIT: TIM SISK!!! 
 
 Note:
 
@@ -918,7 +934,9 @@ And thanks to GDPR, there is now more legal recourse for this to happen, even if
 
 <img src="images/gifs/unintended-consequences.gif" class="fragment" />
 
-Tech Addiction is Pervasive, and has some Nasty Consequences
++++
+
+### Tech Addiction is Pervasive, and has some Nasty Consequences
 
 <img src="images/gifs/endless-tech.gif" class="fragment" />
 
@@ -926,7 +944,7 @@ Tech Addiction is Pervasive, and has some Nasty Consequences
 
 ### When People Say...
 
-> Technology is Neutral |
+> Technology is Neutral
 
 <img src="images/gifs/really.gif" class="fragment" />
 
@@ -960,11 +978,9 @@ Wachter-Boettcher, Sara. *Technically Wrong: Sexist Apps, Biased Algorithms, and
 
 Note: 
 
-> tech doesn't really want [diverse candidates]...or at least, not as much as it wants something else: lack of oversight.
+tech doesn't really want [diverse candidates]...or at least, not as much as it wants something else: lack of oversight.
 
 Wachter-Boettcher, Sara. *Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech*. pp. 186-187
-
-Note:
 
 As anyone who's seen Zuckerberg's testimony at congress, tech companies are able to sidestep regulation and scrutiny because of the technology's complexity.
 
@@ -978,7 +994,7 @@ As technologists, we need to demystify what we do, evangelize the reality that t
 
 technology 
 
-> has the power to make the world a more inclusive place, simply by building interfaces that reflect *all* its users. When the needs of trans people are made explicitly visible within an interface, everyone who uses that interface gets a subtle reminder that trans people exist.
+> When the needs of trans people are made explicitly visible within an interface, everyone who uses that interface gets a subtle reminder that trans people exist.
 
 Wachter-Boettcher, Sara. *Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech*. p. 197
 
@@ -986,7 +1002,7 @@ Wachter-Boettcher, Sara. *Technically Wrong: Sexist Apps, Biased Algorithms, and
 
 ### Think About *Stress* Cases, Not Just *Edge* Cases
 
-> We identify the major use-cases, then the edge cases — that is, unusual or unlikely use of our product; however, when we categorize a behavior as an edge case, we ultimately spend less time solving problems for individuals who use the product in a way we didn’t predict. And in many cases, those are the individuals who need our consideration the most.
+> We identify the major use-cases, then the edge cases...when we categorize a behavior as an edge case, we ultimately spend less time solving problems for individuals who use the product in a way we didn’t predict. And in many cases, those are the individuals who need our consideration the most.
 
 [NPR](https://npr.design/designing-news-products-with-empathy-50-stress-cases-to-consider-61f068a939eb)
 
@@ -998,6 +1014,7 @@ Wachter-Boettcher, Sara. *Technically Wrong: Sexist Apps, Biased Algorithms, and
 
 <a href="https://darkpatterns.org/hall-of-shame" target="_blank" class="fragment">Examples</a>
 
++++
 
 ### Hold Companies to the Fire
 
@@ -1053,7 +1070,7 @@ comment about similarities between medicine and technology
 
 > Morality cannot be legislated, but behavior can be regulated. |
 
-Dr. Martin Luther King, Jr., UCLA, 1965 |
+Dr. Martin Luther King, Jr., UCLA, 1965
 
 Note:
 
@@ -1081,11 +1098,9 @@ https://arstechnica.com/tech-policy/2017/12/new-york-city-moves-to-create-accoun
 
 +++ 
 
-### Misconduct is Costly
+### Misconduct/Deception is Costly
 
-> For each dollar that a firm misleadingly inflates its market value, on average, it loses this dollar when its misconduct is revealed, plus an additional $3.08. Of this additional loss, $0.36 is due to expected legal penalties and $2.71 is due to lost reputation. In firms that survive the enforcement process, lost reputation is even greater at $3.83.
-
-[Karpoff, Jonathan M. and Lee, D. Scott and Martin, Gerald S., The Cost to Firms of Cooking the Books (2008). Journal of Financial and Quantitative Analysis, 43, September 2008, 581-612.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=652121)
+> For each dollar that a firm misleadingly inflates its market value, on average, it loses this dollar when its misconduct is revealed, plus an additional $3.08. 
 
 Note:
 
@@ -1093,9 +1108,17 @@ A 2008 study published in the Journal of Financial and Quantitative Analysis loo
 
 +++
 
+> Of this additional loss, $0.36 is due to expected legal penalties and $2.71 is due to lost reputation. In firms that survive the enforcement process, lost reputation is even greater at $3.83.
+
+[Karpoff, Jonathan M. and Lee, D. Scott and Martin, Gerald S., The Cost to Firms of Cooking the Books (2008). Journal of Financial and Quantitative Analysis, 43, September 2008, 581-612.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=652121)
+
++++
+
 ### Ethnic Diversity Begets Innovation
 
 > This study examines the ethnic identify of the authors of over 1.5 million scientific papers written solely in the US from 1985 to 2008
+
++++
 
 > Papers with greater homophily tend to be published in lower impact journals and to receive fewer citations than others, even holding fixed the previous publishing performance of the authors
 
@@ -1128,7 +1151,7 @@ Freeman, Richard. Huan, Wei. National Bureau of Economic Research, 2014
 
 +++
 
-## Diversity and Inclusion Pay them Bills
+## Diversity, Inclusivity Pay them Bills
 
 ---
 

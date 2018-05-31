@@ -34,7 +34,7 @@
 
 
 
----?image=images/gifs/sauron.png&size=auto 100%
+---?image=images/sauron.png&size=auto 100%
 <h1 style="color: white" class="fragment"> How to Reach the Star Trek Singularity </h1>
 
 +++
@@ -102,15 +102,11 @@ Roughly 1/4 of respondents think the creators, inventors, or designers of their 
 Note:
 
 Exploring the intersection of technology and society is something I'm obsessed with. I see far too many cases of companies and governments using digital technology to get away with murder (both metaphorically, and in some cases, literally).  
-My fear is that sometime in the next two decades, we'll see financial and social inequality engineered at global scale--much of it unintentionally; future generations with their creativity, critical thinking, and emotional intelligence collectively atrophied; and a new form of industrialism--fueled by an inordinate attachment to the promise of AI and digital tech in general--that further marginalizes those most vulnerable in our world today.
 
-This is a little dystopian, but I think it's far from unlikely if current trends continue.
 
 **PAUSE** 
 
 There's a lot of content I want to get through, but my hope is that by drawing on perspectives in law, philosophy, sociology, politics, psychology, technology, and other domains, there's a little bit of something in here for everyone. And if all else fails, I've thrown in an exorbitant number of gifs, so it should at the very least be entertaining. 
-
-My plan is to talk for ~30-45 minutes, which I realize is a long talk, but there will be pauses, a little exercise in the middle, as well as a general discussion at the end that should round everything out. Questions, remarks, and snarky comments are all welcome too. With that...
 
 +++
 
@@ -198,15 +194,11 @@ Decided to keep these out to narrow the scope of the presentation, and/or becaus
 
 ### In the Before Times...
 
-> **Techne**: (n.) art or craft-knowledge. The body of knowledge associated with a particular practice of making... |
-
+> **Techne**: (n.) art or craft-knowledge. The body of knowledge associated with a particular practice of making... 
 
 * A carpenter’s *techne* of making objects from wood |
-* A captain’s *techne* of piloting a ship |
-* A musician’s *techne* of playing a particular kind of instrument |
 * A farmer’s *techne* of working the land |
 * A statesman’s *techne* of governing a state or polis |
-* A physician’s *techne* of healing patients |
 
 [*Philosophy of Technology*, Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/technolo/#H1) |
 
@@ -218,23 +210,39 @@ In classic Greek philosophy, technology was thought of as an act, an art, and a 
 
 ### Nowadays...
 
-* Henryk Skolimowski (*Technology and Culture*, 1966): |
-  > science concerns itself with what is, whereas technology concerns itself with **what is to be** |
-* Mario Bunge (1966): |
-  > technology is applied science...technology is **about action**, but an action heavily underpinned by theory—that is what distinguishes technology from the arts and crafts and puts it on a par with science |
-* Herbert Simon (*The sciences of the artificial*, 1969) |
-  > the scientist is concerned with how things are but the engineer with how things **ought** to be |
-
-[*Philosophy of Technology*, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/technology/#IntTecSci
-)
-
-Note: 
+Note:
 
 During the Middle Ages, technology was reframed as more prospective: "authors began to consider craftsmanship as being more than...the imitation of nature’s works...[rather], humans were also capable of improving upon nature’s designs". Today, the relationship between technology and science has become ever-intertwined, and we should understand that there are a few key components. Technology:
 
 * As prospective (Henryk Skolimowski)
 * As an act and a decision grounded by scientific knowledge/theory (Mario Bunge)
 * Engagement with ethics (Herbert Simon)
+
++++
+
+Henryk Skolimowski (*Technology and Culture*, 1966):
+  > science concerns itself with what is, whereas technology concerns itself with **what is to be** |
+
+[*Philosophy of Technology*, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/technology/#IntTecSci
+)
+
++++
+
+Mario Bunge (1966):
+  > technology is applied science...technology is **about action**, but an action heavily underpinned by theory—that is what distinguishes technology from the arts and crafts and puts it on a par with science |
+
+[*Philosophy of Technology*, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/technology/#IntTecSci
+)
+
++++
+
+Herbert Simon (*The sciences of the artificial*, 1969) |
+  > the scientist is concerned with how things are but the engineer with how things **ought** to be |
+
+[*Philosophy of Technology*, Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/technology/#IntTecSci
+)
+
+Note: 
 
 **PAUSE**
 
@@ -330,6 +338,8 @@ Note:
 I assume this isn't a comprehensive list of all laws in the U.S. that deal with data ethics, but the point is: U.S. law boils down to a legal philosophy of: *collect whatever data you want, unless otherwise prohibited by law*
 
 The recent adoption of the GDPR legislation in the E.U., however, is based on a different philosophy. By default, *you are not allowed to collect any data, unless explicitly allowed by law*. I should also note that Russia has had similar legislation since 2006. I won't go into that law today, but I thought it was worth mentioning. We may have more olympic medals, but they've got more comprehensive legislation around data ethics. Just saying.
+
++++
 
 #### E.U.
 
@@ -448,7 +458,6 @@ In 2020, |
 
 * Every citizen will have a mandatory "social credit score" |
 
-
 Note:
 
 [Dang'an](https://newrepublic.com/article/148121/control-14-billion-people)
@@ -534,13 +543,14 @@ But this trend isn't limited to the Patriot Act, either. Technologies like facia
 
 +++
 
-> 16 states let the FBI use face recognition technology to compare the faces of suspected criminals to their driver’s license and ID photos, creating a virtual line-up of their state residents...One in two American adults is in a law enforcement face recognition network...No state has passed a law comprehensively regulating police face recognition. We are not aware of any agency that requires warrants for searches or limits them to serious crimes...only one [local agency's] face recognition use policy expressly prohibits its officers from using face recognition to track individuals engaging in political, religious, or other protected free speech
+> 16 states let the FBI use face recognition technology...One in two American adults is in a law enforcement face recognition network...No state has passed a law comprehensively regulating police face recognition.
 
 [Center on Privacy & Technology at Georgetown Law](https://www.perpetuallineup.org/)
 
 Note:
 
-The takeaway? While I've only talked briefly about surveillance by U.S. and Chinese governments, the 
+The takeaway? While I've only talked briefly about surveillance by U.S. and Chinese governments, the reality is that public surveillance and data mining of almost everything we do has become so widespread that the term Orwellian is now insufficient in describing our current world
+
 +++
 
 ### Private Data Mining
@@ -1068,6 +1078,7 @@ https://arstechnica.com/tech-policy/2017/12/new-york-city-moves-to-create-accoun
 
 <img src="images/gifs/were-waiting.gif" class="fragment" />
 
+
 +++ 
 
 ### Misconduct is Costly
@@ -1084,31 +1095,40 @@ A 2008 study published in the Journal of Financial and Quantitative Analysis loo
 
 ### Ethnic Diversity Begets Innovation
 
-Richard Freeman study
+> This study examines the ethnic identify of the authors of over 1.5 million scientific papers written solely in the US from 1985 to 2008
+
+> Papers with greater homophily tend to be published in lower impact journals and to receive fewer citations than others, even holding fixed the previous publishing performance of the authors
+
+Freeman, Richard. Huan, Wei. National Bureau of Economic Research, 2014
 
 +++
 
-### Gender Diversity = $$$
+### Gender Diversity Pays
 
-> In August 2012 a team of researchers at the Credit Suisse Research Institute issued a report in which they examined 2,360 companies globally from 2005 to 2011, looking for a relationship between gender diversity on corporate management boards and financial performance. Sure enough, the researchers found that companies with one or more women on the board delivered higher average returns on equity, lower gearing (that is, net debt to equity) and better average growth.
-
-https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/
+> In August 2012 a team of researchers at the Credit Suisse Research Institute issued a report in which they examined 2,360 companies globally from 2005 to 2011, looking for a relationship between gender diversity on corporate management boards and financial performance...
 
 +++
 
-OK, but can you quantify that? 
+> Sure enough, the researchers found that companies with one or more women on the board delivered higher average returns on equity, lower gearing (that is, net debt to equity) and better average growth.
+
+[Phillips, Katherine. *How Diversity Makes Us Smarter*. Scientific American. 2014](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
 
 +++
 
-> business professors Cristian Deszö of the University of Maryland and David Ross of Columbia University studied the effect of gender diversity on the top firms in Standard & Poor's Composite 1500 list, a group designed to reflect the overall U.S. equity market. First, they examined the size and gender composition of firms' top management teams from 1992 through 2006. Then they looked at the financial performance of the firms. In their words, they found that, on average, “female representation in top management leads to an increase of $42 million in firm value.” ...companies that prioritized innovation saw greater financial gains when women were part of the top leadership ranks.
+### Racial Diversity Pays
 
-https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/
+> In a study conducted in 2003, Orlando Richard, a professor of management at the University of Texas at Dallas, and his colleagues surveyed executives at 177 national banks in the U.S...
 
-### Racial Diversity = $$$
 
-> In a study conducted in 2003, Orlando Richard, a professor of management at the University of Texas at Dallas, and his colleagues surveyed executives at 177 national banks in the U.S., then put together a database comparing financial performance, racial diversity and the emphasis the bank presidents put on innovation. For innovation-focused banks, increases in racial diversity were clearly related to enhanced financial performance
++++
 
-https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/
+> then put together a database comparing financial performance, racial diversity and the emphasis the bank presidents put on innovation. For innovation-focused banks, increases in racial diversity were clearly related to enhanced financial performance
+
+[Phillips, Katherine. *How Diversity Makes Us Smarter*. Scientific American. 2014](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/)
+
++++
+
+## Diversity and Inclusion Pay them Bills
 
 ---
 
